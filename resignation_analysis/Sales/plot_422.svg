@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
   "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="648pt" height="324pt" viewBox="0 0 648 324" xmlns="http://www.w3.org/2000/svg" version="1.1">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="496.8pt" height="216pt" viewBox="0 0 496.8 216" xmlns="http://www.w3.org/2000/svg" version="1.1">
  <metadata>
   <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
    <cc:Work>
     <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:date>2023-02-05T10:47:16.513924</dc:date>
+    <dc:date>2023-02-05T13:11:47.901334</dc:date>
     <dc:format>image/svg+xml</dc:format>
     <dc:creator>
      <cc:Agent>
@@ -21,21 +21,21 @@
  </defs>
  <g id="figure_1">
   <g id="patch_1">
-   <path d="M 0 324 
-L 648 324 
-L 648 0 
+   <path d="M 0 216 
+L 496.8 216 
+L 496.8 0 
 L 0 0 
-L 0 324 
+L 0 216 
 z
 " style="fill: none"/>
   </g>
   <g id="axes_1">
    <g id="patch_2">
-    <path d="M 72.045 291.08 
-L 637.2 291.08 
-L 637.2 23.76 
-L 72.045 23.76 
-L 72.045 291.08 
+    <path d="M 69.075 185.24 
+L 486 185.24 
+L 486 23.76 
+L 69.075 23.76 
+L 69.075 185.24 
 z
 " style="fill: none"/>
    </g>
@@ -43,17 +43,17 @@ z
     <g id="xtick_1">
      <g id="line2d_1">
       <defs>
-       <path id="m4a59a0b182" d="M 0 0 
+       <path id="m5f51dceffe" d="M 0 0 
 L 0 3.5 
 " style="stroke: #000000; stroke-width: 0.8"/>
       </defs>
       <g>
-       <use xlink:href="#m4a59a0b182" x="133.166779" y="291.08" style="stroke: #000000; stroke-width: 0.8"/>
+       <use xlink:href="#m5f51dceffe" x="114.165635" y="185.24" style="stroke: #000000; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_1">
       <!-- 0 - 0.5 -->
-      <g style="fill: #555555" transform="translate(109.101779 309.9525)scale(0.16 -0.16)">
+      <g style="fill: #555555" transform="translate(93.10876 202.628437)scale(0.14 -0.14)">
        <defs>
         <path id="Montserrat-Regular-30" d="M 2118 -38 
 C 3155 -38 3910 813 3910 2240 
@@ -114,12 +114,12 @@ z
     <g id="xtick_2">
      <g id="line2d_2">
       <g>
-       <use xlink:href="#m4a59a0b182" x="221.749067" y="291.08" style="stroke: #000000; stroke-width: 0.8"/>
+       <use xlink:href="#m5f51dceffe" x="179.514381" y="185.24" style="stroke: #000000; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_2">
       <!-- 0.5 - 1 -->
-      <g style="fill: #555555" transform="translate(200.092817 309.9525)scale(0.16 -0.16)">
+      <g style="fill: #555555" transform="translate(160.565162 202.628437)scale(0.14 -0.14)">
        <defs>
         <path id="Montserrat-Regular-31" d="M 58 4480 
 L 58 4070 
@@ -144,12 +144,12 @@ z
     <g id="xtick_3">
      <g id="line2d_3">
       <g>
-       <use xlink:href="#m4a59a0b182" x="310.331356" y="291.08" style="stroke: #000000; stroke-width: 0.8"/>
+       <use xlink:href="#m5f51dceffe" x="244.863127" y="185.24" style="stroke: #000000; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_3">
       <!-- 1 - 2 -->
-      <g style="fill: #555555" transform="translate(295.651356 309.9525)scale(0.16 -0.16)">
+      <g style="fill: #555555" transform="translate(232.018127 202.628437)scale(0.14 -0.14)">
        <defs>
         <path id="Montserrat-Regular-32" d="M 928 410 
 L 2451 1907 
@@ -179,12 +179,12 @@ z
     <g id="xtick_4">
      <g id="line2d_4">
       <g>
-       <use xlink:href="#m4a59a0b182" x="398.913644" y="291.08" style="stroke: #000000; stroke-width: 0.8"/>
+       <use xlink:href="#m5f51dceffe" x="310.211873" y="185.24" style="stroke: #000000; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_4">
       <!-- 2 - 3 -->
-      <g style="fill: #555555" transform="translate(382.608644 309.9525)scale(0.16 -0.16)">
+      <g style="fill: #555555" transform="translate(295.944998 202.628437)scale(0.14 -0.14)">
        <defs>
         <path id="Montserrat-Regular-33" d="M 1856 2560 
 L 3123 4154 
@@ -216,12 +216,12 @@ z
     <g id="xtick_5">
      <g id="line2d_5">
       <g>
-       <use xlink:href="#m4a59a0b182" x="487.495933" y="291.08" style="stroke: #000000; stroke-width: 0.8"/>
+       <use xlink:href="#m5f51dceffe" x="375.560619" y="185.24" style="stroke: #000000; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_5">
       <!-- 3 - 4 -->
-      <g style="fill: #555555" transform="translate(470.447183 309.9525)scale(0.16 -0.16)">
+      <g style="fill: #555555" transform="translate(360.642963 202.628437)scale(0.14 -0.14)">
        <defs>
         <path id="Montserrat-Regular-34" d="M 4141 1587 
 L 3245 1587 
@@ -253,12 +253,12 @@ z
     <g id="xtick_6">
      <g id="line2d_6">
       <g>
-       <use xlink:href="#m4a59a0b182" x="576.078221" y="291.08" style="stroke: #000000; stroke-width: 0.8"/>
+       <use xlink:href="#m5f51dceffe" x="440.909365" y="185.24" style="stroke: #000000; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_6">
       <!-- 4 - 5 -->
-      <g style="fill: #555555" transform="translate(559.014471 309.9525)scale(0.16 -0.16)">
+      <g style="fill: #555555" transform="translate(425.978584 202.628437)scale(0.14 -0.14)">
        <use xlink:href="#Montserrat-Regular-34"/>
        <use xlink:href="#Montserrat-Regular-20" x="66.099991"/>
        <use xlink:href="#Montserrat-Regular-2d" x="92.299988"/>
@@ -271,116 +271,59 @@ z
    <g id="matplotlib.axis_2">
     <g id="ytick_1">
      <g id="line2d_7">
-      <path d="M 72.045 291.08 
-L 637.2 291.08 
-" clip-path="url(#p4f48f13f8e)" style="fill: none; stroke-dasharray: 1.85,0.8; stroke-dashoffset: 0; stroke: #b7b7b7; stroke-width: 0.5"/>
+      <path d="M 69.075 185.24 
+L 486 185.24 
+" clip-path="url(#pcbb43cfb0e)" style="fill: none; stroke-dasharray: 1.85,0.8; stroke-dashoffset: 0; stroke: #b7b7b7; stroke-width: 0.5"/>
      </g>
      <g id="line2d_8">
       <defs>
-       <path id="mdf2040520a" d="M 0 0 
+       <path id="m12d5bdc9bb" d="M 0 0 
 L -3.5 0 
 " style="stroke: #b7b7b7; stroke-width: 0.8"/>
       </defs>
       <g>
-       <use xlink:href="#mdf2040520a" x="72.045" y="291.08" style="fill: #b7b7b7; stroke: #b7b7b7; stroke-width: 0.8"/>
+       <use xlink:href="#m12d5bdc9bb" x="69.075" y="185.24" style="fill: #b7b7b7; stroke: #b7b7b7; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_7">
       <!-- 0 -->
-      <g style="fill: #b7b7b7" transform="translate(54.4525 297.01625)scale(0.16 -0.16)">
+      <g style="fill: #b7b7b7" transform="translate(51.4825 191.17625)scale(0.16 -0.16)">
        <use xlink:href="#Montserrat-Regular-30"/>
       </g>
      </g>
     </g>
     <g id="ytick_2">
      <g id="line2d_9">
-      <path d="M 72.045 264.348 
-L 637.2 264.348 
-" clip-path="url(#p4f48f13f8e)" style="fill: none; stroke-dasharray: 1.85,0.8; stroke-dashoffset: 0; stroke: #b7b7b7; stroke-width: 0.5"/>
+      <path d="M 69.075 152.944 
+L 486 152.944 
+" clip-path="url(#pcbb43cfb0e)" style="fill: none; stroke-dasharray: 1.85,0.8; stroke-dashoffset: 0; stroke: #b7b7b7; stroke-width: 0.5"/>
      </g>
      <g id="line2d_10">
       <g>
-       <use xlink:href="#mdf2040520a" x="72.045" y="264.348" style="fill: #b7b7b7; stroke: #b7b7b7; stroke-width: 0.8"/>
+       <use xlink:href="#m12d5bdc9bb" x="69.075" y="152.944" style="fill: #b7b7b7; stroke: #b7b7b7; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_8">
-      <!-- 2 -->
-      <g style="fill: #b7b7b7" transform="translate(55.9575 270.28425)scale(0.16 -0.16)">
-       <use xlink:href="#Montserrat-Regular-32"/>
+      <!-- 4 -->
+      <g style="fill: #b7b7b7" transform="translate(51.5 158.88025)scale(0.16 -0.16)">
+       <use xlink:href="#Montserrat-Regular-34"/>
       </g>
      </g>
     </g>
     <g id="ytick_3">
      <g id="line2d_11">
-      <path d="M 72.045 237.616 
-L 637.2 237.616 
-" clip-path="url(#p4f48f13f8e)" style="fill: none; stroke-dasharray: 1.85,0.8; stroke-dashoffset: 0; stroke: #b7b7b7; stroke-width: 0.5"/>
+      <path d="M 69.075 120.648 
+L 486 120.648 
+" clip-path="url(#pcbb43cfb0e)" style="fill: none; stroke-dasharray: 1.85,0.8; stroke-dashoffset: 0; stroke: #b7b7b7; stroke-width: 0.5"/>
      </g>
      <g id="line2d_12">
       <g>
-       <use xlink:href="#mdf2040520a" x="72.045" y="237.616" style="fill: #b7b7b7; stroke: #b7b7b7; stroke-width: 0.8"/>
+       <use xlink:href="#m12d5bdc9bb" x="69.075" y="120.648" style="fill: #b7b7b7; stroke: #b7b7b7; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_9">
-      <!-- 4 -->
-      <g style="fill: #b7b7b7" transform="translate(54.47 243.55225)scale(0.16 -0.16)">
-       <use xlink:href="#Montserrat-Regular-34"/>
-      </g>
-     </g>
-    </g>
-    <g id="ytick_4">
-     <g id="line2d_13">
-      <path d="M 72.045 210.884 
-L 637.2 210.884 
-" clip-path="url(#p4f48f13f8e)" style="fill: none; stroke-dasharray: 1.85,0.8; stroke-dashoffset: 0; stroke: #b7b7b7; stroke-width: 0.5"/>
-     </g>
-     <g id="line2d_14">
-      <g>
-       <use xlink:href="#mdf2040520a" x="72.045" y="210.884" style="fill: #b7b7b7; stroke: #b7b7b7; stroke-width: 0.8"/>
-      </g>
-     </g>
-     <g id="text_10">
-      <!-- 6 -->
-      <g style="fill: #b7b7b7" transform="translate(55.3 216.82025)scale(0.16 -0.16)">
-       <defs>
-        <path id="Montserrat-Regular-36" d="M 2189 2682 
-C 1568 2682 1043 2406 819 1914 
-C 806 2048 800 2176 800 2278 
-C 800 3494 1421 4115 2387 4115 
-C 2720 4115 3027 4058 3258 3904 
-L 3443 4275 
-C 3162 4448 2784 4518 2381 4518 
-C 1165 4518 333 3725 333 2202 
-C 333 787 979 -38 2170 -38 
-C 3040 -38 3699 499 3699 1338 
-C 3699 2157 3078 2682 2189 2682 
-z
-M 2150 352 
-C 1376 352 966 819 966 1312 
-C 966 1869 1434 2291 2118 2291 
-C 2810 2291 3245 1914 3245 1325 
-C 3245 730 2797 352 2150 352 
-z
-" transform="scale(0.015625)"/>
-       </defs>
-       <use xlink:href="#Montserrat-Regular-36"/>
-      </g>
-     </g>
-    </g>
-    <g id="ytick_5">
-     <g id="line2d_15">
-      <path d="M 72.045 184.152 
-L 637.2 184.152 
-" clip-path="url(#p4f48f13f8e)" style="fill: none; stroke-dasharray: 1.85,0.8; stroke-dashoffset: 0; stroke: #b7b7b7; stroke-width: 0.5"/>
-     </g>
-     <g id="line2d_16">
-      <g>
-       <use xlink:href="#mdf2040520a" x="72.045" y="184.152" style="fill: #b7b7b7; stroke: #b7b7b7; stroke-width: 0.8"/>
-      </g>
-     </g>
-     <g id="text_11">
       <!-- 8 -->
-      <g style="fill: #b7b7b7" transform="translate(54.8375 190.08825)scale(0.16 -0.16)">
+      <g style="fill: #b7b7b7" transform="translate(51.8675 126.58425)scale(0.16 -0.16)">
        <defs>
         <path id="Montserrat-Regular-38" d="M 2899 2349 
 C 3360 2528 3616 2867 3616 3334 
@@ -410,123 +353,87 @@ z
       </g>
      </g>
     </g>
-    <g id="ytick_6">
-     <g id="line2d_17">
-      <path d="M 72.045 157.42 
-L 637.2 157.42 
-" clip-path="url(#p4f48f13f8e)" style="fill: none; stroke-dasharray: 1.85,0.8; stroke-dashoffset: 0; stroke: #b7b7b7; stroke-width: 0.5"/>
+    <g id="ytick_4">
+     <g id="line2d_13">
+      <path d="M 69.075 88.352 
+L 486 88.352 
+" clip-path="url(#pcbb43cfb0e)" style="fill: none; stroke-dasharray: 1.85,0.8; stroke-dashoffset: 0; stroke: #b7b7b7; stroke-width: 0.5"/>
      </g>
-     <g id="line2d_18">
+     <g id="line2d_14">
       <g>
-       <use xlink:href="#mdf2040520a" x="72.045" y="157.42" style="fill: #b7b7b7; stroke: #b7b7b7; stroke-width: 0.8"/>
+       <use xlink:href="#m12d5bdc9bb" x="69.075" y="88.352" style="fill: #b7b7b7; stroke: #b7b7b7; stroke-width: 0.8"/>
       </g>
      </g>
-     <g id="text_12">
-      <!-- 10 -->
-      <g style="fill: #b7b7b7" transform="translate(48.6775 163.35625)scale(0.16 -0.16)">
-       <use xlink:href="#Montserrat-Regular-31"/>
-       <use xlink:href="#Montserrat-Regular-30" x="36.099991"/>
-      </g>
-     </g>
-    </g>
-    <g id="ytick_7">
-     <g id="line2d_19">
-      <path d="M 72.045 130.688 
-L 637.2 130.688 
-" clip-path="url(#p4f48f13f8e)" style="fill: none; stroke-dasharray: 1.85,0.8; stroke-dashoffset: 0; stroke: #b7b7b7; stroke-width: 0.5"/>
-     </g>
-     <g id="line2d_20">
-      <g>
-       <use xlink:href="#mdf2040520a" x="72.045" y="130.688" style="fill: #b7b7b7; stroke: #b7b7b7; stroke-width: 0.8"/>
-      </g>
-     </g>
-     <g id="text_13">
+     <g id="text_10">
       <!-- 12 -->
-      <g style="fill: #b7b7b7" transform="translate(50.1825 136.62425)scale(0.16 -0.16)">
+      <g style="fill: #b7b7b7" transform="translate(47.2125 94.28825)scale(0.16 -0.16)">
        <use xlink:href="#Montserrat-Regular-31"/>
        <use xlink:href="#Montserrat-Regular-32" x="36.099991"/>
       </g>
      </g>
     </g>
-    <g id="ytick_8">
-     <g id="line2d_21">
-      <path d="M 72.045 103.956 
-L 637.2 103.956 
-" clip-path="url(#p4f48f13f8e)" style="fill: none; stroke-dasharray: 1.85,0.8; stroke-dashoffset: 0; stroke: #b7b7b7; stroke-width: 0.5"/>
+    <g id="ytick_5">
+     <g id="line2d_15">
+      <path d="M 69.075 56.056 
+L 486 56.056 
+" clip-path="url(#pcbb43cfb0e)" style="fill: none; stroke-dasharray: 1.85,0.8; stroke-dashoffset: 0; stroke: #b7b7b7; stroke-width: 0.5"/>
      </g>
-     <g id="line2d_22">
+     <g id="line2d_16">
       <g>
-       <use xlink:href="#mdf2040520a" x="72.045" y="103.956" style="fill: #b7b7b7; stroke: #b7b7b7; stroke-width: 0.8"/>
+       <use xlink:href="#m12d5bdc9bb" x="69.075" y="56.056" style="fill: #b7b7b7; stroke: #b7b7b7; stroke-width: 0.8"/>
       </g>
      </g>
-     <g id="text_14">
-      <!-- 14 -->
-      <g style="fill: #b7b7b7" transform="translate(48.695 109.89225)scale(0.16 -0.16)">
-       <use xlink:href="#Montserrat-Regular-31"/>
-       <use xlink:href="#Montserrat-Regular-34" x="36.099991"/>
-      </g>
-     </g>
-    </g>
-    <g id="ytick_9">
-     <g id="line2d_23">
-      <path d="M 72.045 77.224 
-L 637.2 77.224 
-" clip-path="url(#p4f48f13f8e)" style="fill: none; stroke-dasharray: 1.85,0.8; stroke-dashoffset: 0; stroke: #b7b7b7; stroke-width: 0.5"/>
-     </g>
-     <g id="line2d_24">
-      <g>
-       <use xlink:href="#mdf2040520a" x="72.045" y="77.224" style="fill: #b7b7b7; stroke: #b7b7b7; stroke-width: 0.8"/>
-      </g>
-     </g>
-     <g id="text_15">
+     <g id="text_11">
       <!-- 16 -->
-      <g style="fill: #b7b7b7" transform="translate(49.525 83.16025)scale(0.16 -0.16)">
+      <g style="fill: #b7b7b7" transform="translate(46.555 61.99225)scale(0.16 -0.16)">
+       <defs>
+        <path id="Montserrat-Regular-36" d="M 2189 2682 
+C 1568 2682 1043 2406 819 1914 
+C 806 2048 800 2176 800 2278 
+C 800 3494 1421 4115 2387 4115 
+C 2720 4115 3027 4058 3258 3904 
+L 3443 4275 
+C 3162 4448 2784 4518 2381 4518 
+C 1165 4518 333 3725 333 2202 
+C 333 787 979 -38 2170 -38 
+C 3040 -38 3699 499 3699 1338 
+C 3699 2157 3078 2682 2189 2682 
+z
+M 2150 352 
+C 1376 352 966 819 966 1312 
+C 966 1869 1434 2291 2118 2291 
+C 2810 2291 3245 1914 3245 1325 
+C 3245 730 2797 352 2150 352 
+z
+" transform="scale(0.015625)"/>
+       </defs>
        <use xlink:href="#Montserrat-Regular-31"/>
        <use xlink:href="#Montserrat-Regular-36" x="36.099991"/>
       </g>
      </g>
     </g>
-    <g id="ytick_10">
-     <g id="line2d_25">
-      <path d="M 72.045 50.492 
-L 637.2 50.492 
-" clip-path="url(#p4f48f13f8e)" style="fill: none; stroke-dasharray: 1.85,0.8; stroke-dashoffset: 0; stroke: #b7b7b7; stroke-width: 0.5"/>
+    <g id="ytick_6">
+     <g id="line2d_17">
+      <path d="M 69.075 23.76 
+L 486 23.76 
+" clip-path="url(#pcbb43cfb0e)" style="fill: none; stroke-dasharray: 1.85,0.8; stroke-dashoffset: 0; stroke: #b7b7b7; stroke-width: 0.5"/>
      </g>
-     <g id="line2d_26">
+     <g id="line2d_18">
       <g>
-       <use xlink:href="#mdf2040520a" x="72.045" y="50.492" style="fill: #b7b7b7; stroke: #b7b7b7; stroke-width: 0.8"/>
+       <use xlink:href="#m12d5bdc9bb" x="69.075" y="23.76" style="fill: #b7b7b7; stroke: #b7b7b7; stroke-width: 0.8"/>
       </g>
      </g>
-     <g id="text_16">
-      <!-- 18 -->
-      <g style="fill: #b7b7b7" transform="translate(49.0625 56.42825)scale(0.16 -0.16)">
-       <use xlink:href="#Montserrat-Regular-31"/>
-       <use xlink:href="#Montserrat-Regular-38" x="36.099991"/>
-      </g>
-     </g>
-    </g>
-    <g id="ytick_11">
-     <g id="line2d_27">
-      <path d="M 72.045 23.76 
-L 637.2 23.76 
-" clip-path="url(#p4f48f13f8e)" style="fill: none; stroke-dasharray: 1.85,0.8; stroke-dashoffset: 0; stroke: #b7b7b7; stroke-width: 0.5"/>
-     </g>
-     <g id="line2d_28">
-      <g>
-       <use xlink:href="#mdf2040520a" x="72.045" y="23.76" style="fill: #b7b7b7; stroke: #b7b7b7; stroke-width: 0.8"/>
-      </g>
-     </g>
-     <g id="text_17">
+     <g id="text_12">
       <!-- 20 -->
-      <g style="fill: #b7b7b7" transform="translate(45.365 29.69625)scale(0.16 -0.16)">
+      <g style="fill: #b7b7b7" transform="translate(42.395 29.69625)scale(0.16 -0.16)">
        <use xlink:href="#Montserrat-Regular-32"/>
        <use xlink:href="#Montserrat-Regular-30" x="56.799988"/>
       </g>
      </g>
     </g>
-    <g id="text_18">
+    <g id="text_13">
      <!-- [%] -->
-     <g style="fill: #b7b7b7" transform="translate(10.715 153.53875)scale(0.2 -0.2)">
+     <g style="fill: #b7b7b7" transform="translate(10.675 101.395)scale(0.16 -0.16)">
       <defs>
        <path id="Montserrat-Regular-5b" d="M 730 -1242 
 L 1901 -1242 
@@ -589,86 +496,86 @@ z
     </g>
    </g>
    <g id="patch_3">
-    <path d="M 97.733864 291.08 
-L 168.599694 291.08 
-L 168.599694 291.08 
-L 97.733864 291.08 
+    <path d="M 88.026136 185.24 
+L 140.305133 185.24 
+L 140.305133 185.24 
+L 88.026136 185.24 
 z
-" clip-path="url(#p4f48f13f8e)" style="fill: #b1e5f4"/>
+" clip-path="url(#pcbb43cfb0e)" style="fill: #b1e5f4"/>
    </g>
    <g id="patch_4">
-    <path d="M 186.316152 291.08 
-L 257.181983 291.08 
-L 257.181983 247.963871 
-L 186.316152 247.963871 
+    <path d="M 153.374882 185.24 
+L 205.653879 185.24 
+L 205.653879 159.194839 
+L 153.374882 159.194839 
 z
-" clip-path="url(#p4f48f13f8e)" style="fill: #b1e5f4"/>
+" clip-path="url(#pcbb43cfb0e)" style="fill: #b1e5f4"/>
    </g>
    <g id="patch_5">
-    <path d="M 274.89844 291.08 
-L 345.764271 291.08 
-L 345.764271 121.353016 
-L 274.89844 121.353016 
+    <path d="M 218.723629 185.24 
+L 271.002625 185.24 
+L 271.002625 82.713016 
+L 218.723629 82.713016 
 z
-" clip-path="url(#p4f48f13f8e)" style="fill: #b1e5f4"/>
+" clip-path="url(#pcbb43cfb0e)" style="fill: #b1e5f4"/>
    </g>
    <g id="patch_6">
-    <path d="M 363.480729 291.08 
-L 434.34656 291.08 
-L 434.34656 23.76 
-L 363.480729 23.76 
+    <path d="M 284.072375 185.24 
+L 336.351371 185.24 
+L 336.351371 23.76 
+L 284.072375 23.76 
 z
-" clip-path="url(#p4f48f13f8e)" style="fill: #b1e5f4"/>
+" clip-path="url(#pcbb43cfb0e)" style="fill: #b1e5f4"/>
    </g>
    <g id="patch_7">
-    <path d="M 452.063017 291.08 
-L 522.928848 291.08 
-L 522.928848 169.570909 
-L 452.063017 169.570909 
+    <path d="M 349.421121 185.24 
+L 401.700118 185.24 
+L 401.700118 111.84 
+L 349.421121 111.84 
 z
-" clip-path="url(#p4f48f13f8e)" style="fill: #b1e5f4"/>
+" clip-path="url(#pcbb43cfb0e)" style="fill: #b1e5f4"/>
    </g>
    <g id="patch_8">
-    <path d="M 540.645306 291.08 
-L 611.511136 291.08 
-L 611.511136 23.76 
-L 540.645306 23.76 
+    <path d="M 414.769867 185.24 
+L 467.048864 185.24 
+L 467.048864 23.76 
+L 414.769867 23.76 
 z
-" clip-path="url(#p4f48f13f8e)" style="fill: #b1e5f4"/>
+" clip-path="url(#pcbb43cfb0e)" style="fill: #b1e5f4"/>
    </g>
-   <g id="text_19">
+   <g id="text_14">
     <!-- 0% -->
-    <g style="fill: #555555" transform="translate(122.729123 288.363125)scale(0.14 -0.14)">
+    <g style="fill: #555555" transform="translate(103.727979 182.523125)scale(0.14 -0.14)">
      <use xlink:href="#Montserrat-Regular-30"/>
      <use xlink:href="#Montserrat-Regular-25" x="66.199997"/>
     </g>
    </g>
-   <g id="text_20">
+   <g id="text_15">
     <!-- 3% -->
-    <g style="fill: #555555" transform="translate(211.997192 245.246996)scale(0.14 -0.14)">
+    <g style="fill: #555555" transform="translate(169.762506 156.477964)scale(0.14 -0.14)">
      <use xlink:href="#Montserrat-Regular-33"/>
      <use xlink:href="#Montserrat-Regular-25" x="56.399994"/>
     </g>
    </g>
-   <g id="text_21">
+   <g id="text_16">
     <!-- 13% -->
-    <g style="fill: #555555" transform="translate(298.052918 118.636141)scale(0.14 -0.14)">
+    <g style="fill: #555555" transform="translate(232.584689 79.996141)scale(0.14 -0.14)">
      <use xlink:href="#Montserrat-Regular-31"/>
      <use xlink:href="#Montserrat-Regular-33" x="36.099991"/>
      <use xlink:href="#Montserrat-Regular-25" x="92.499985"/>
     </g>
    </g>
-   <g id="text_22">
+   <g id="text_17">
     <!-- 20% -->
-    <g style="fill: #555555" transform="translate(384.500207 21.043125)scale(0.14 -0.14)">
+    <g style="fill: #555555" transform="translate(295.798436 21.043125)scale(0.14 -0.14)">
      <use xlink:href="#Montserrat-Regular-32"/>
      <use xlink:href="#Montserrat-Regular-30" x="56.799988"/>
      <use xlink:href="#Montserrat-Regular-25" x="122.999985"/>
     </g>
    </g>
-   <g id="text_23">
+   <g id="text_18">
     <!-- 9% -->
-    <g style="fill: #555555" transform="translate(477.429058 166.854034)scale(0.14 -0.14)">
+    <g style="fill: #555555" transform="translate(365.493744 109.123125)scale(0.14 -0.14)">
      <defs>
       <path id="Montserrat-Regular-39" d="M 1728 4518 
 C 858 4518 198 3981 198 3142 
@@ -694,29 +601,29 @@ z
      <use xlink:href="#Montserrat-Regular-25" x="60.899994"/>
     </g>
    </g>
-   <g id="text_24">
+   <g id="text_19">
     <!-- 20% -->
-    <g style="fill: #555555" transform="translate(561.664784 21.043125)scale(0.14 -0.14)">
+    <g style="fill: #555555" transform="translate(426.495928 21.043125)scale(0.14 -0.14)">
      <use xlink:href="#Montserrat-Regular-32"/>
      <use xlink:href="#Montserrat-Regular-30" x="56.799988"/>
      <use xlink:href="#Montserrat-Regular-25" x="122.999985"/>
     </g>
    </g>
-   <g id="line2d_29">
-    <path d="M 72.045 291.08 
-L 637.2 291.08 
+   <g id="line2d_19">
+    <path d="M 69.075 185.24 
+L 486 185.24 
 " style="fill: none; stroke: #555555; stroke-width: 3; stroke-linecap: square"/>
    </g>
-   <g id="line2d_30">
-    <path d="M 72.045 146.247966 
-L 637.2 146.247966 
-" clip-path="url(#p4f48f13f8e)" style="fill: none; stroke-dasharray: 5,1.5; stroke-dashoffset: 2.5; stroke: #000000; stroke-opacity: 0.85; stroke-width: 0.5"/>
+   <g id="line2d_20">
+    <path d="M 69.075 97.751309 
+L 486 97.751309 
+" clip-path="url(#pcbb43cfb0e)" style="fill: none; stroke-dasharray: 5,1.5; stroke-dashoffset: 2.5; stroke: #000000; stroke-opacity: 0.85; stroke-width: 0.5"/>
    </g>
   </g>
  </g>
  <defs>
-  <clipPath id="p4f48f13f8e">
-   <rect x="72.045" y="23.76" width="565.155" height="267.32"/>
+  <clipPath id="pcbb43cfb0e">
+   <rect x="69.075" y="23.76" width="416.925" height="161.48"/>
   </clipPath>
  </defs>
 </svg>
